@@ -1,2 +1,7 @@
 # Discrete-Methods-For-Solving-Differential-Equations
-polygonal (Euler’s) method, improved polygonal method and Runge-Kutta method
+
+- Polygonal (Euler’s) Method
+- Improved polygonal Method
+- Runge-Kutta Method
+
+This material is designed for educational use in numerical algorithms and linear algebra laboratory courses.
